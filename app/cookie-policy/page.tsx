@@ -28,7 +28,7 @@ export default function CookiePolicyPage() {
           </h1>
 
           <p className="text-xs text-muted-foreground mb-10">
-            Última actualización: enero de 2025
+            Última actualización 2026
           </p>
 
           <div className="flex flex-col gap-10 text-base leading-relaxed text-foreground/85">
